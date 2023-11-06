@@ -1,4 +1,7 @@
-## Setup and usage
+# inf-bachelorproef
+Bachelorproef project: Adaptieve streaming van sparse voxeloctrees
+
+# Setup and usage
 To start the front-end, go to the front-end dir and execute `npm install` and `npm start`. The back-end will start on http://localhost:8080.
 In the front-end dir "src" can a file `constants.ts` be found with interesting values that can be changed.
 
