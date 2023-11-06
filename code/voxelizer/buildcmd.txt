@@ -1,0 +1,1 @@
+g++ src/*.cpp src/opengl/*.cpp src/voxelizer/*.cpp -o main.exe -Iinclude -Llibs -lfreeglutd -lgdi32 -lopengl32 -lglew32 -static
